@@ -26,6 +26,6 @@
 
 |💻Most Used Languages and Stats 📈|🎯 Github Streaks and Trophies 🏆|
 |-----------------------------------|----------------------------------|
-|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RA2112704010015&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/RA2112704010015/RA2112704010015)|[![Nikhil's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=RA2112704010015&theme=midnight-purple&hide_border=true)](https://github.com/RA2112704010015)
+|[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RA2112704010015&show_icons=true&theme=midnight-purple&layout=compact&hide_title=true)](https://github.com/RA2112704010015/RA21127040100158)|[![Nikhil's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=RA2112704010015&theme=midnight-purple&hide_border=true)](https://github.com/RA2112704010015)
 |[![Statistics](https://github-readme-stats.vercel.app/api?username=RA2112704010015&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/RA2112704010015/RA2112704010015)|
 
