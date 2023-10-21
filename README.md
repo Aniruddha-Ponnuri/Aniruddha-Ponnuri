@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring AI/Ml developer and Data Science engineer.</h3>
 <img align='right' alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tani2189&label=Profile%20views&color=0e75b6&style=flat" alt="tani2189 " /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RA2112704010015&label=Profile%20views&color=0e75b6&style=flat" alt="RA2112704010015 " /> </p>
 
 - 🌱 I’m currently learning **Data Science And ML**
 
