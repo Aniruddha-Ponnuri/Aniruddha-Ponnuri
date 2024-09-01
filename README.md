@@ -1,16 +1,19 @@
 [![](https://visitcount.itsvg.in/api?id=RA2112704010015&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 👋, I'm Aniruddha</h1>
-<h3 align="center">An Aspiring AI/ML Developer and Data Science Engineer.</h3>
+<h3 align="center">An Aspiring AI/ML Developer and Data Science Engineer</h3>
 
-# 💫 About Me:
-- 🔭 I’m currently working on Gen-AI  
-- 🌱 I’m currently learning Gen-AI and Android Development  
-- 🌱 I’m currently learning Data Science and ML  
-- 💬 Basic understanding in the field of Python, C++, Artificial Intelligence, and Machine Learning  
-- 📫 How to reach me: aniruddha.ponnuri@gmail.com  
 
-<img align='right' alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+
+<h1>💫 About Me:</h1>
+  <img align='right' alt="Coding" width="250" height="150" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<ul>
+  <li>🔭 I’m currently working on Gen-AI</li>
+  <li>🌱 I’m currently learning Gen-AI and Android Development</li>
+  <li>🌱 I’m currently learning Data Science and ML</li>
+  <li>💬 Basic understanding in the field of Python, C++, Artificial Intelligence, and Machine Learning</li>
+  <li>📫 How to reach me: aniruddha.ponnuri@gmail.com</li>
+</ul>
 
 ---
 
