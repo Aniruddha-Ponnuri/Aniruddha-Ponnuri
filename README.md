@@ -6,7 +6,7 @@
 
 
 <h1>💫 About Me:</h1>
-  <img align='right' alt="Coding" width="250" height="150" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+  <img align='right' alt="Coding" width="250" height="150" src="https://github.com/TechnoVar197/TechnoVar197/blob/36972b5841796e4f58645df634048fdfeb1a3095/Pics/hacker.gif">
 <ul>
   <li>🔭 I’m currently working on Gen-AI</li>
   <li>🌱 I’m currently learning Gen-AI and Android Development</li>
