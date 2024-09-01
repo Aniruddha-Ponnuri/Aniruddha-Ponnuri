@@ -1,11 +1,7 @@
+[![](https://visitcount.itsvg.in/api?id=RA2112704010015&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h1 align="center">Hi 👋, I'm Aniruddha</h1>
 <h3 align="center">An Aspiring AI/ML Developer and Data Science Engineer.</h3>
-
-<img align='right' alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=RA2112704010015&label=Profile%20views&color=0e75b6&style=flat" alt="RA2112704010015" /> 
-</p>
 
 # 💫 About Me:
 - 🔭 I’m currently working on Gen-AI  
@@ -14,9 +10,10 @@
 - 💬 Basic understanding in the field of Python, C++, Artificial Intelligence, and Machine Learning  
 - 📫 How to reach me: aniruddha.ponnuri@gmail.com  
 
+<img align='right' alt="Coding" width="400" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+
 ---
 
-[![](https://visitcount.itsvg.in/api?id=RA2112704010015&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
