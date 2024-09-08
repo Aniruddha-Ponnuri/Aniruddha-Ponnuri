@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=RA2112704010015&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Aniruddha-Ponnuri&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <h1 align="center">Hi 👋, I'm Aniruddha</h1>
 <h3 align="center">An Aspiring AI/ML Developer and Data Science Engineer</h3>
@@ -77,5 +77,5 @@
 # 📊 GitHub Stats:
 | 💻 Most Used Languages and Stats 📈 | 🎯 Github Streaks and Trophies 🏆 |
 |-----------------------------------|----------------------------------|
-| [![Top Languages](https://github-readme-stats.vercel.app/api?username=RA2112704010015&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/RA2112704010015/RA2112704010015) | [![Aniruddha's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=RA2112704010015&theme=dark&hide_border=false)](https://github.com/RA2112704010015) |
-| [![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=RA2112704010015&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/RA2112704010015/RA2112704010015) | [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=RA2112704010015&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/RA2112704010015) |
+| [![Top Languages](https://github-readme-stats.vercel.app/api?username=Aniruddha-Ponnuri&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/Aniruddha-Ponnuri/Aniruddha-Ponnuri) | [![Aniruddha's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=Aniruddha-Ponnuri&theme=dark&hide_border=false)](https://github.com/Aniruddha-Ponnuri) |
+| [![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddha-Ponnuri&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Aniruddha-Ponnuri/Aniruddha-Ponnuri) | [![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Aniruddha-Ponnuri&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Aniruddha-Ponnuri) |
